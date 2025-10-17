@@ -31,9 +31,15 @@ npm install -g code-screenshot-mcp
 
 ### Configuration
 
-Add to your Claude configuration file:
+**Quick Setup (Claude Code):**
 
-**macOS/Linux**: `~/Library/Application Support/Claude/claude_desktop_config.json`
+```bash
+claude mcp add code-screenshot-mcp
+```
+
+**Manual Setup (Claude Desktop):**
+
+Add to your Claude configuration file at `~/Library/Application Support/Claude/claude_desktop_config.json`:
 
 ```json
 {
