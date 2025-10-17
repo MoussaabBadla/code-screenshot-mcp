@@ -1,0 +1,36 @@
+{
+  "name": "code-screenshot-mcp",
+  "version": "0.1.0",
+  "author" : "Moussaab Badla",
+  "description": "MCP server for generating beautiful code screenshots directly from Claude",
+  "main": "dist/index.js",
+  "type": "module",
+  "bin": {
+    "code-screenshot-mcp": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "start": "node dist/index.js",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "mcp",
+    "screenshot",
+    "code",
+    "syntax-highlighting",
+    "developer-tools",
+    "claude"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "playwright": "^1.48.0",
+    "sharp": "^0.33.5",
+    "highlight.js": "^11.10.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "typescript": "^5.5.0"
+  }
+}
