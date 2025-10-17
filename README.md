@@ -2,6 +2,8 @@
 
 > MCP server for generating beautiful code screenshots directly from Claude
 
+[![npm version](https://img.shields.io/npm/v/code-screenshot-mcp.svg)](https://www.npmjs.com/package/code-screenshot-mcp)
+[![npm downloads](https://img.shields.io/npm/dm/code-screenshot-mcp.svg)](https://www.npmjs.com/package/code-screenshot-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue)](https://www.typescriptlang.org/)
 [![MCP](https://img.shields.io/badge/MCP-1.0-green)](https://modelcontextprotocol.io/)
