@@ -10,6 +10,10 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue)](https://www.typescriptlang.org/)
 [![MCP](https://img.shields.io/badge/MCP-1.0-green)](https://modelcontextprotocol.io/)
 
+<a href="https://glama.ai/mcp/servers/@MoussaabBadla/code-screenshot-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@MoussaabBadla/code-screenshot-mcp/badge" alt="Code Screenshot Generator MCP server" />
+</a>
+
 ## Overview
 
 A Model Context Protocol (MCP) server that enables Claude to generate syntax-highlighted code screenshots with professional themes. Supports direct file reading, line selection, git diff visualization, and batch processing.
