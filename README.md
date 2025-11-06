@@ -1,5 +1,3 @@
-[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/moussaabbadla-code-screenshot-mcp-badge.png)](https://mseep.ai/app/moussaabbadla-code-screenshot-mcp)
-
 # Code Screenshot Generator MCP
 
 > MCP server for generating beautiful code screenshots directly from Claude
